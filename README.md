@@ -14,3 +14,6 @@ https://media.discordapp.net/attachments/870820745935224832/920784976897802310/u
 ![image](https://user-images.githubusercontent.com/37954635/146265822-c7ab9f6c-5ee0-4213-b570-388e374aac5a.png)
 
 Aqui como bien se aprecia, teneis varias opciones, entre ellas , conectarse al servidor RP o FR, OTC para staffs y iniciar FiveM con recursos mejorados ( Obviamente, lo posible, esto no es una herramienta que hará que tu RX 480 sea una RTX 3080 )
+
+Scan VirusTotal
+![image](https://user-images.githubusercontent.com/37954635/146267783-d663db21-0643-4e78-911b-51658fe43187.png)

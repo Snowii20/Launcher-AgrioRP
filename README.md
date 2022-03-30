@@ -1,5 +1,5 @@
 # Launcher-AgrioRP
-Launches/Tool para los jugadores/staff de AgrioRP, varias funcionalidades para mejorar el rendimiento y experiencia del jugador.
+Launcher/Tool para los jugadores/staff de AgrioRP, varias funcionalidades para mejorar el rendimiento y experiencia del jugador.
 Interfaz:
 https://media.discordapp.net/attachments/870820745935224832/920781422904610846/unknown.png
 ![image](https://user-images.githubusercontent.com/37954635/146265851-dcc284a7-11fa-4fd6-9f02-d1a65f9ac60a.png)
